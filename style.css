@@ -51,7 +51,7 @@ h2 {
 /* Sezione Banner */
 
 .banner{
-    height: 350px;
+    height: 250px;
     width: 100%;
     margin-bottom: 40px;
     display: flex;
@@ -67,7 +67,7 @@ h2 {
 }
 
 .banner img{
-    max-width: 300px;
+    max-width: 200px;
 }
 
 /* Sezione Carosello */
