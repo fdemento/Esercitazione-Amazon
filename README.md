@@ -1,5 +1,5 @@
 # Esercitazione del 09/06/2023
-Creazione di una pagina web partendo da un immagine di riferimento (Amazon Homepage)
+### Creazione di una pagina web partendo da un immagine di riferimento (Amazon Homepage)
 Questa è la seconda esercitazione realizzata per la prima settimana di lezione del corso Web Development Part-time in Epicode. In questa cartella sono presenti tutti i file di progetto:
 * La cartella **assets** contenente le immagini per la pagina, compresi i loghi e tutte le immagini per i prodotti e le sezioni;
 * Il file **index.html** con il codice HTML della pagina;
